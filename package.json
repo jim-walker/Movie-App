@@ -1,0 +1,23 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "Movie App with AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jim-walker/Movie-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jim-walker/Movie-App/issues"
+  },
+  "homepage": "https://github.com/jim-walker/Movie-App#readme",
+  "dependencies": {
+    "aws-sdk": "^2.412.0",
+    "request": "^2.88.0"
+  }
+}
